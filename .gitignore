@@ -1,0 +1,26 @@
+.minecraft/.mixin.out/*
+.minecraft/crash-reports/*
+.minecraft/journeymap/*
+.minecraft/logs/*
+.minecraft/saves/*
+.minecraft/screenshots/*
+.minecraft/shaderpacks/*
+.minecraft/snapshots-server/*
+.minecraft/texturepacks/*
+.minecraft/optionsof.txt
+.minecraft/usercache.json
+.minecraft/usernamecache.json
+.minecraft/mods/TheBetweenlands-3.7.2-universal.jar
+instance.cfg
+.minecraft/config/*
+
+# Whitelisted from config folder ignore
+!.minecraft/config/forge.cfg
+
+!.minecraft/config/ProjectRed.cfg
+# End of whitelist
+
+.minecraft/options.txt
+.minecraft/servers.dat
+.minecraft/mods/OpenTerrainGenerator/*
+.minecraft/optionsshaders.txt
